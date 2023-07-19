@@ -1,1 +1,0 @@
-# JayTechPH.github.io
