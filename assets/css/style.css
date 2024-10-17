@@ -396,6 +396,7 @@ header a:hover {
     max-width: 30rem;
     position: relative;
     padding: 30px 0px 10px 15px;
+    text-align: justify;
 }
 /* ---------- Showcase-Text ---------- */
 
